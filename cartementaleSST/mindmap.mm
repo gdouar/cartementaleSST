@@ -2,7 +2,7 @@
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Nouveaux standards et architectures de r&#xe9;f&#xe9;rence pour l&apos;industrie 4.0" FOLDED="false" ID="ID_368675033" CREATED="1539019012744" MODIFIED="1539336481175" STYLE="oval">
 <font SIZE="18"/>
-<hook NAME="MapStyle" zoom="6.434">
+<hook NAME="MapStyle" zoom="0.871">
     <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
@@ -73,13 +73,11 @@
 </node>
 <node TEXT="Information Systems" ID="ID_1829046555" CREATED="1539334666928" MODIFIED="1539334679443">
 <node TEXT="Business Digitization" ID="ID_1598700241" CREATED="1539019321161" MODIFIED="1539336324688" HGAP_QUANTITY="16.999999910593033 pt" VSHIFT_QUANTITY="-23.999999284744288 pt"/>
+<node TEXT="Software architecture" ID="ID_1120662536" CREATED="1539019297687" MODIFIED="1539337955206"/>
 </node>
 <node TEXT="Staff and collaborators" ID="ID_1457418089" CREATED="1539334681115" MODIFIED="1539334815126"/>
 <node TEXT="Organisational units" ID="ID_332808796" CREATED="1539334818079" MODIFIED="1539334832048"/>
-</node>
-<node TEXT="Legacy Implementation" ID="ID_1234950861" CREATED="1539019722119" MODIFIED="1539336971905" HGAP_QUANTITY="25.999999642372142 pt" VSHIFT_QUANTITY="8.249999754130844 pt">
-<node TEXT="Reference architecture" ID="ID_1851385299" CREATED="1539019169935" MODIFIED="1539335344504"/>
-<node TEXT="Architecture logicielle" ID="ID_1120662536" CREATED="1539019297687" MODIFIED="1539019865627"/>
+<node TEXT="Reference architecture" ID="ID_1851385299" CREATED="1539019169935" MODIFIED="1539337928379"/>
 </node>
 <node TEXT="Transformations and improvement" ID="ID_968556386" CREATED="1539019883259" MODIFIED="1539336204681" HGAP_QUANTITY="22.24999975413085 pt" VSHIFT_QUANTITY="11.249999664723887 pt">
 <node TEXT="Collaborative Enterprise Architecture" ID="ID_1347889144" CREATED="1539019420084" MODIFIED="1539336204681" HGAP_QUANTITY="7.250000201165678 pt" VSHIFT_QUANTITY="-18.749999441206466 pt">
