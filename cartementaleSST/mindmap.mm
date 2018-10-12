@@ -3,7 +3,7 @@
 <node TEXT="Nouveaux standards et architectures de r&#xe9;f&#xe9;rence pour l&apos;industrie 4.0" FOLDED="false" ID="ID_368675033" CREATED="1539019012744" MODIFIED="1539019114256" STYLE="oval">
 <font SIZE="18"/>
 <hook NAME="MapStyle">
-    <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
+    <properties fit_to_viewport="false" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -63,7 +63,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="1" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="2" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Architecture d&apos;entreprise" POSITION="right" ID="ID_403698410" CREATED="1539019120424" MODIFIED="1539019915348">
 <edge COLOR="#ff0000"/>
 <node TEXT="Archiecture h&#xe9;rit&#xe9;e" ID="ID_1234950861" CREATED="1539019722119" MODIFIED="1539019844420" HGAP_QUANTITY="19.999999821186073 pt" VSHIFT_QUANTITY="-20.24999939650299 pt">
@@ -77,6 +77,22 @@
 <node TEXT="Transformations/am&#xe9;liorations" ID="ID_968556386" CREATED="1539019883259" MODIFIED="1539020784460">
 <node TEXT="Collaborative Enterprise Architecture" ID="ID_1347889144" CREATED="1539019420084" MODIFIED="1539020784460" HGAP_QUANTITY="15.499999955296522 pt" VSHIFT_QUANTITY="-11.249999664723882 pt"/>
 <node TEXT="Interoperability" ID="ID_1664877347" CREATED="1539019679210" MODIFIED="1539019686612"/>
+</node>
+</node>
+<node TEXT="Syst&#xe8;mes Cyber-Physiques" POSITION="right" ID="ID_1066907868" CREATED="1539334199580" MODIFIED="1539335019137">
+<edge COLOR="#0000ff"/>
+<node TEXT="Diff&#xe9;rences avec les syst&#xe8;mes embarqu&#xe9;s" ID="ID_1748252500" CREATED="1539334251119" MODIFIED="1539334475336"/>
+<node TEXT="Exemples actuels" ID="ID_973572120" CREATED="1539335072152" MODIFIED="1539335081498">
+<node TEXT="Internet of Things" ID="ID_939862158" CREATED="1539334679374" MODIFIED="1539334685767"/>
+<node TEXT="Smart Grid" ID="ID_72929929" CREATED="1539334545643" MODIFIED="1539334622538"/>
+<node TEXT="Process Control System" ID="ID_802712696" CREATED="1539334634015" MODIFIED="1539334666670"/>
+</node>
+<node TEXT="Architecture" ID="ID_1854642654" CREATED="1539334965587" MODIFIED="1539334969582">
+<node TEXT="Mat&#xe9;riel" ID="ID_1473521989" CREATED="1539334871600" MODIFIED="1539335019136" HGAP_QUANTITY="13.250000022351742 pt" VSHIFT_QUANTITY="8.999999731779106 pt">
+<node TEXT="Capteurs" ID="ID_507280013" CREATED="1539334886735" MODIFIED="1539334901386"/>
+<node TEXT="Controlleurs" ID="ID_1749834111" CREATED="1539334907092" MODIFIED="1539334915212"/>
+</node>
+<node TEXT="Standards de communication" ID="ID_1804140459" CREATED="1539334820552" MODIFIED="1539334869139"/>
 </node>
 </node>
 </node>
